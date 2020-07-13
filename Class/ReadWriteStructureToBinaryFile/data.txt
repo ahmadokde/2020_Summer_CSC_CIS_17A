@@ -1,0 +1,660 @@
+
+Structure Contents Record = 0
+     X
+     5
+   364
+
+
+Structure Contents Record = 1
+     Z
+    18
+  1080
+
+
+Structure Contents Record = 2
+     A
+    27
+  2053
+
+
+Structure Contents Record = 3
+     W
+    37
+  3829
+
+
+Structure Contents Record = 4
+     Z
+    40
+  4287
+
+
+Structure Contents Record = 5
+     Q
+    58
+  5861
+
+
+Structure Contents Record = 6
+     X
+    61
+  6831
+
+
+Structure Contents Record = 7
+     N
+    70
+  7214
+
+
+Structure Contents Record = 8
+     T
+    85
+  8148
+
+
+Structure Contents Record = 9
+     Q
+    95
+  9683
+
+
+Structure Contents Record = 10
+     K
+   103
+ 10881
+
+
+Structure Contents Record = 11
+     C
+   112
+ 11494
+
+
+Structure Contents Record = 12
+     K
+   120
+ 12233
+
+
+Structure Contents Record = 13
+     C
+   134
+ 13775
+
+
+Structure Contents Record = 14
+     N
+   140
+ 14079
+
+
+Structure Contents Record = 15
+     N
+   156
+ 15304
+
+
+Structure Contents Record = 16
+     D
+   163
+ 16153
+
+
+Structure Contents Record = 17
+     M
+   178
+ 17755
+
+
+Structure Contents Record = 18
+     D
+   182
+ 18858
+
+
+Structure Contents Record = 19
+     P
+   192
+ 19136
+
+
+Structure Contents Record = 20
+     U
+   202
+ 20410
+
+
+Structure Contents Record = 21
+     C
+   213
+ 21242
+
+
+Structure Contents Record = 22
+     I
+   227
+ 22563
+
+
+Structure Contents Record = 23
+     H
+   233
+ 23763
+
+
+Structure Contents Record = 24
+     F
+   240
+ 24090
+
+
+Structure Contents Record = 25
+     Y
+   250
+ 25272
+
+
+Structure Contents Record = 26
+     V
+   264
+ 26761
+
+
+Structure Contents Record = 27
+     N
+   271
+ 27400
+
+
+Structure Contents Record = 28
+     V
+   286
+ 28597
+
+
+Structure Contents Record = 29
+     D
+   295
+ 29843
+
+
+Structure Contents Record = 30
+     B
+   306
+ 30559
+
+
+Structure Contents Record = 31
+     Z
+   318
+ 31153
+
+
+Structure Contents Record = 32
+     E
+   322
+ 32653
+
+
+Structure Contents Record = 33
+     O
+   334
+ 33567
+
+
+Structure Contents Record = 34
+     V
+   344
+ 34594
+
+
+Structure Contents Record = 35
+     K
+   355
+ 35641
+
+
+Structure Contents Record = 36
+     K
+   362
+ 36414
+
+
+Structure Contents Record = 37
+     G
+   377
+ 37563
+
+
+Structure Contents Record = 38
+     N
+   386
+ 38020
+
+
+Structure Contents Record = 39
+     N
+   393
+ 39197
+
+
+Structure Contents Record = 40
+     I
+   404
+ 40789
+
+
+Structure Contents Record = 41
+     D
+   411
+ 41373
+
+
+Structure Contents Record = 42
+     Y
+   426
+ 42242
+
+
+Structure Contents Record = 43
+     U
+   437
+ 43093
+
+
+Structure Contents Record = 44
+     E
+   440
+ 44830
+
+
+Structure Contents Record = 45
+     D
+   453
+ 45644
+
+
+Structure Contents Record = 46
+     R
+   467
+ 46348
+
+
+Structure Contents Record = 47
+     N
+   470
+ 47221
+
+
+Structure Contents Record = 48
+     H
+   481
+ 48149
+
+
+Structure Contents Record = 49
+     Y
+   494
+ 49325
+
+
+Structure Contents Record = 50
+     B
+   502
+ 50672
+
+
+Structure Contents Record = 51
+     Q
+   514
+ 51679
+
+
+Structure Contents Record = 52
+     Y
+   525
+ 52124
+
+
+Structure Contents Record = 53
+     H
+   538
+ 53806
+
+
+Structure Contents Record = 54
+     J
+   544
+ 54683
+
+
+Structure Contents Record = 55
+     W
+   558
+ 55422
+
+
+Structure Contents Record = 56
+     D
+   563
+ 56249
+
+
+Structure Contents Record = 57
+     M
+   571
+ 57124
+
+
+Structure Contents Record = 58
+     C
+   581
+ 58317
+
+
+Structure Contents Record = 59
+     F
+   590
+ 59537
+
+
+Structure Contents Record = 60
+     J
+   606
+ 60403
+
+
+Structure Contents Record = 61
+     R
+   615
+ 61365
+
+
+Structure Contents Record = 62
+     A
+   623
+ 62404
+
+
+Structure Contents Record = 63
+     G
+   635
+ 63844
+
+
+Structure Contents Record = 64
+     D
+   646
+ 64336
+
+
+Structure Contents Record = 65
+     Y
+   654
+ 65283
+
+
+Structure Contents Record = 66
+     V
+   666
+ 66288
+
+
+Structure Contents Record = 67
+     L
+   673
+ 67114
+
+
+Structure Contents Record = 68
+     T
+   687
+ 68694
+
+
+Structure Contents Record = 69
+     S
+   697
+ 69160
+
+
+Structure Contents Record = 70
+     N
+   708
+ 70424
+
+
+Structure Contents Record = 71
+     O
+   713
+ 71700
+
+
+Structure Contents Record = 72
+     M
+   721
+ 72671
+
+
+Structure Contents Record = 73
+     X
+   736
+ 73030
+
+
+Structure Contents Record = 74
+     J
+   742
+ 74447
+
+
+Structure Contents Record = 75
+     O
+   755
+ 75834
+
+
+Structure Contents Record = 76
+     A
+   762
+ 76639
+
+
+Structure Contents Record = 77
+     T
+   777
+ 77432
+
+
+Structure Contents Record = 78
+     P
+   783
+ 78448
+
+
+Structure Contents Record = 79
+     L
+   796
+ 79533
+
+
+Structure Contents Record = 80
+     N
+   804
+ 80445
+
+
+Structure Contents Record = 81
+     Y
+   818
+ 81775
+
+
+Structure Contents Record = 82
+     X
+   820
+ 82141
+
+
+Structure Contents Record = 83
+     U
+   836
+ 83066
+
+
+Structure Contents Record = 84
+     Z
+   841
+ 84616
+
+
+Structure Contents Record = 85
+     X
+   854
+ 85782
+
+
+Structure Contents Record = 86
+     K
+   863
+ 86343
+
+
+Structure Contents Record = 87
+     Z
+   871
+ 87317
+
+
+Structure Contents Record = 88
+     T
+   882
+ 88238
+
+
+Structure Contents Record = 89
+     L
+   895
+ 89816
+
+
+Structure Contents Record = 90
+     D
+   902
+ 90832
+
+
+Structure Contents Record = 91
+     X
+   917
+ 91794
+
+
+Structure Contents Record = 92
+     Q
+   925
+ 92869
+
+
+Structure Contents Record = 93
+     A
+   936
+ 93655
+
+
+Structure Contents Record = 94
+     L
+   942
+ 94165
+
+
+Structure Contents Record = 95
+     X
+   950
+ 95186
+
+
+Structure Contents Record = 96
+     I
+   964
+ 96797
+
+
+Structure Contents Record = 97
+     H
+   974
+ 97149
+
+
+Structure Contents Record = 98
+     L
+   988
+ 98172
+
+
+Structure Contents Record = 99
+     V
+   995
+ 99291
+
+
+Structure Contents Record = 90
+     B
+   658
+  1534
+
+
+Structure Contents Record = 91
+     Z
+   970
+  1796
+
+
+Structure Contents Record = 92
+     K
+   292
+  1545
+
+
+Structure Contents Record = 93
+     C
+   662
+  1809
+
+
+Structure Contents Record = 94
+     X
+   664
+  1138
+
+
+Structure Contents Record = 95
+     E
+   391
+  1336
+
+
+Structure Contents Record = 96
+     K
+   745
+  1572
+
+
+Structure Contents Record = 97
+     O
+   891
+  1840
+
+
+Structure Contents Record = 98
+     J
+   682
+  1098
+
+
+Structure Contents Record = 99
+     N
+   377
+  1097
+
